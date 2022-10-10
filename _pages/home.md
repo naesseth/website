@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m an Assistant Professor of Machine Learning at the University of Amsterdam, a member of the [Amsterdam Machine Learning Lab](https://amlab.science.uva.nl/) and an [ELLIS](https://ellis.eu/) member.
+I am an Assistant Professor of Machine Learning at the University of Amsterdam, a member of the [Amsterdam Machine Learning Lab](https://amlab.science.uva.nl/) and an [ELLIS](https://ellis.eu/) member.
 
 My research interests span approximate statistical inference, uncertainty quantification, causality and artificial intelligence as well as their application to the life sciences and economics.
 
