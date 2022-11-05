@@ -7,6 +7,8 @@ nav: true
 display_categories: [PI, Postdocs, PhD Students]
 ---
 
+If you are a MSc student at UvA and interested in collaborating on a thesis project, contact me via email. Indicate which areas you are interested in and attach a CV, including a complete record of your courses and grades.
+
 <!-- pages/team.md -->
 <div class="projects">
 <!-- Display categorized people -->
@@ -27,5 +29,3 @@ display_categories: [PI, Postdocs, PhD Students]
 </div>
 {%- endfor -%}
 </div>
-
-If you are an MSc student at UvA and interested in collaborating on a thesis project, contact me via email. Indicate which areas you are interested in and attach a CV, including a complete record of your courses and grades.
