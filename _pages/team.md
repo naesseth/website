@@ -32,6 +32,3 @@ display_categories: [PI, Postdocs, PhD Students]
 
 ### Interested in Joining?
 If you are a MSc student at UvA and interested in collaborating on a thesis project, contact me via [email](mailto:c.a.naesseth@uva.nl). Indicate which areas you are interested in and attach a CV, including a complete record of your courses and grades.
-
-
-No other vacancies at this time.
