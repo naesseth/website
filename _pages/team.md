@@ -31,4 +31,6 @@ display_categories: [PI, Postdocs, PhD Students]
 ---
 
 ### Interested in Joining?
+Postdoc vacancy with application deadline February 4, 2024: https://vacatures.uva.nl/UvA/job/Postdoctoral-Researcher-in-Machine-Learning/784737702/
+
 If you are a MSc student at UvA and interested in collaborating on a thesis project, contact me via [email](mailto:c.a.naesseth@uva.nl). Indicate which areas you are interested in and attach a CV, including a complete record of your courses and grades.
