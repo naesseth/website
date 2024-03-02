@@ -3,7 +3,7 @@
 <figure>
 
   <picture>
-    <!-- {% if site.imagemagick.enabled %}
+    {% if site.imagemagick.enabled %}
     {% for i in site.imagemagick.widths -%}
       <source 
         class="responsive-img-srcset"
@@ -11,11 +11,11 @@
         srcset="{{ img_path | relative_url }}-{{ i }}.webp"
       />
     {% endfor -%}
-    {% endif %} -->
+    {% endif %}
     
 
     <!-- Fallback to the original file -->
-    <!-- <img 
+    <img 
       src="{{ include.path | relative_url }}"
       {% if include.class %}class="{{ include.class }}"{% endif %}  
       {% if include.width %}width="{{ include.width }}"{% else %}width="auto"{% endif %} 
@@ -28,9 +28,7 @@
       {% if include.title %}title="{{ include.title }}"{% endif %} 
       {% if include.zoomable %}data-zoomable{% endif %}
       onerror="this.onerror=null; $('.responsive-img-srcset').remove();"
-    /> -->
-
-    <img {% if include.class %}class="{{ include.class }}"{% endif %} src="{{ include.path | relative_url }}" {% if include.alt %}alt="{{ include.alt }}"{% endif %} {% if include.title %}title="{{ include.title }}"{% endif %} {% if include.zoomable %}data-zoomable{% endif %} />
+    />
 
   </picture>
 
