@@ -8,7 +8,7 @@ role: Visiting PhD student
 one_liner: Deep generative models, chemistry.
 img: assets/img/FrancoisCornet.jpeg
 personal_page:
-scholar_userid:
+scholar_userid: C4XV2J4AAAAJ
 github_username:
 twitter_username:
 category: PhD Students
