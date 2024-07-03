@@ -4,7 +4,7 @@ title: Team
 permalink: /team/
 description: 
 nav: true
-display_categories: [PI, Postdocs, PhD Students]
+display_categories: [Postdocs, PhD Students, Alumni]
 ---
 
 <!-- pages/team.md -->
