@@ -12,6 +12,9 @@ display_categories: [Postdocs, PhD Students, Alumni]
 <!-- Display categorized people -->
 {%- for category in page.display_categories -%}
 
+{% if category == "Alumni" %} 
+<h2 class="category">{{ category }}</h2>
+{% endif %} 
 
 {%- assign categorized_people = site.people | where: "category", category -%}
 {%- assign ordered_people = categorized_people | group_by: "order" -%}
