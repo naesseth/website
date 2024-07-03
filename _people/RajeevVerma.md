@@ -3,7 +3,7 @@ layout: page
 first_name: Rajeev
 last_name: Verma
 short_name: Rajeev Verma
-email: rajeev.ee15@gmail.com
+email: r.verma@uva.nl
 role: PhD candidate (co-supervised by Eric Nalisnick)
 one_liner: AI safety, uncertainty quantification, decision making.
 img: assets/img/RajeevVerma.jpeg
