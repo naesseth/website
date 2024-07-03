@@ -15,6 +15,7 @@ display_categories: [Postdocs, PhD Students, Alumni]
 
 {%- assign categorized_people = site.people | where: "category", category -%}
 {%- assign ordered_people = categorized_people | group_by: "order" -%}
+{%- assign ordered_people = ordered_people | sort: "name" -%}
 
 <div class="grid">
 {%- for o in ordered_people -%}
