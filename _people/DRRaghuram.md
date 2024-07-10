@@ -3,7 +3,7 @@ layout: page
 first_name: Raghuram
 last_name: D R
 short_name: Raghuram D R
-email: dandinasivara.raghuram@uni-bielefeld.de
+email: raghuram@CeBiTec.uni-bielefeld.de
 role: Visiting PhD student
 one_liner: Genomics, generative models.
 img: assets/img/RaghuramDR.jpg
