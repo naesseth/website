@@ -11,5 +11,5 @@ personal_page: https://raghuramdr.github.io/
 scholar_userid: 
 github_username:
 twitter_username: pseudodoctor
-category: PhD Students
+category: Alumni
 ---
