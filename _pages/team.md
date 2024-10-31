@@ -35,7 +35,4 @@ display_categories: [Postdocs, PhD Students, Alumni]
 ---
 
 ### Interested in Joining?
-
-I am currently recruiting a postdoc to join the team to work on generative AI and/or uncertainty quantification. Apply [here](https://vacatures.uva.nl/UvA/job/Postdoctoral-Researcher-in-Machine-Learning/784737802/), I will be reviewing applications on a rolling basis till the position is filled.
-
 If you are a MSc student at UvA and interested in collaborating on a thesis project, contact me via [email](mailto:c.a.naesseth@uva.nl). Indicate which areas you are interested in and attach a CV, including a complete record of your courses and grades.
