@@ -6,4 +6,5 @@ inline: true
 
 I will give the keynote at the NeurIPS Fest 2024 event in Amsterdam on November 28, co-organised by the [ELLIS](https://ellis.eu/) units in [Amsterdam](https://ellis.eu/units/amsterdam), [Delft](https://www.tudelft.nl/ellis-delft-unit), and [Nijmegen](https://ellis.eu/units/nijmegen).
 
+<br>
 <img src="../assets/img/neuripsfest.jpg" alt="NeurIPS Fest 2024" width="200"/>
