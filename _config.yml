@@ -92,6 +92,7 @@ instagram_id: # your instagram id
 facebook_id: # your facebook id
 mastodon_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
+bluesky_id: canaesseth.bsky.social # your bluesky id
 
 contact_note: #
 
