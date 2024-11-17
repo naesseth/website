@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: ElemAI Lab
-middle_name: 
-last_name: "| Christian A. Naesseth"
+first_name: Christian
+middle_name: A.
+last_name: "Naesseth"
 email: c.a.naesseth@uva.nl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   CAN Lab, Informatics Institute, University of Amsterdam
