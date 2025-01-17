@@ -5,7 +5,7 @@ last_name: Abdulsamad
 short_name: Hany Abdulsamad
 email: h.abdulsamad@uva.nl
 role: Postdoc
-one_liner: Probabilistic machine learning.
+one_liner: Generative models, uncertainty quantification.
 img: assets/img/HanyAbdulsamad.jpeg
 personal_page: 
 scholar_userid: 9LrmZZwAAAAJ
